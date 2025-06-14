@@ -1,11 +1,10 @@
 # Duel Komplek!
 
-![Screenshot Gameplay](screenshot.jpg)
+
 
 ## 🕹 Description
 
-**Duel Komplek!** is a 2D casual game where two players battle it out by tossing objects at each other in their own neighborhood!  
-Set in a simple residential area, this game brings a fun, comic-like showdown between neighbors — perfect for a short match with friends.
+**Duel Komplek!** is a 2D casual game where two players battle it out by tossing objects at each other in their own neighborhood! This game take reference from cat vs dog
 
 ## 🚀 Features (Current)
 
